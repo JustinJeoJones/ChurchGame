@@ -1,0 +1,20 @@
+$(document).ready(function(){
+    $("#1").click(function(){
+      $("#1").text("");
+    });
+    $("#2").click(function(){
+        $("#2").text("");
+      });
+      $("#3").click(function(){
+        $("#3").text("");
+      });
+      $("#4").click(function(){
+        $("#4").text("");
+      });
+      $("#5").click(function(){
+        $("#5").text("");
+      });
+      $("#6").click(function(){
+        $("#6").text("");
+      });
+  });
